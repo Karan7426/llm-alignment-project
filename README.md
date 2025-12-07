@@ -57,6 +57,36 @@ llm_alignment_project/
 └── README.md
 
 ```
+---
+---
+
+##  Model Checkpoints & Weights (Important)
+
+Due to GitHub file size limits, **trained model checkpoints, optimizer states, and large weight files are intentionally excluded** from this repository.
+
+This repository focuses on:
+-  Training scripts
+-  Alignment logic
+-  Reward modeling pipeline
+-  RLHF-style scoring & selection code
+
+### Why are models not included?
+- GitHub limits files to **100 MB**
+- Trained LLM checkpoints can exceed **hundreds of MB**
+- Best practice is to **exclude weights from source repositories**
+
+### How to reproduce the models?
+All models can be **re-trained locally** using the provided scripts:
+- `sft_train.py`
+- `reward_train.py`
+- `run_ppo.py`
+
+This ensures the project is:
+- Reproducible  
+-  Clean  
+-  Industry-standard  
+
+---
 
 ---
 
