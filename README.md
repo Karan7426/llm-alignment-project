@@ -58,7 +58,7 @@ llm_alignment_project/
 
 ```
 ---
----
+
 
 ##  Model Checkpoints & Weights (Important)
 
@@ -86,7 +86,7 @@ This ensures the project is:
 -  Clean  
 -  Industry-standard  
 
----
+
 
 ---
 
