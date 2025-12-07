@@ -1,0 +1,10 @@
+{"chosen": "Human: What is Python?\nAssistant: Python is a high-level programming language used for many applications.", "rejected": "Human: What is Python?\nAssistant: I don’t know."}
+{"chosen": "Human: How do I center a div in CSS?\nAssistant: Use flexbox: display:flex; justify-content:center; align-items:center;", "rejected": "Human: How do I center a div?\nAssistant: CSS is confusing lol."}
+{"chosen": "Human: What is machine learning?\nAssistant: Machine learning is the study of algorithms that improve automatically through data.", "rejected": "Human: What is machine learning?\nAssistant: Machines try to think like humans."}
+{"chosen": "Human: Suggest healthy foods.\nAssistant: Fruits, vegetables, nuts, oats, and yogurt.", "rejected": "Human: Suggest healthy food.\nAssistant: Junk food tastes good."}
+{"chosen": "Human: What is an API?\nAssistant: An API allows two software programs to communicate with each other.", "rejected": "Human: What is an API?\nAssistant: Something for programmers."}
+{"chosen": "Human: How to reverse a list in Python?\nAssistant: Use list.reverse() or list[::-1].", "rejected": "Human: How to reverse a list?\nAssistant: You can't reverse a list."}
+{"chosen": "Human: Explain OOP.\nAssistant: OOP is a programming paradigm based on objects and classes.", "rejected": "Human: Explain OOP.\nAssistant: OOP is something in C++ only."}
+{"chosen": "Human: What is SQL?\nAssistant: SQL is used to manage and query relational databases.", "rejected": "Human: What is SQL?\nAssistant: A code language maybe."}
+{"chosen": "Human: What is HTML?\nAssistant: HTML is a markup language for creating web pages.", "rejected": "Human: What is HTML?\nAssistant: I think it's some coding stuff."}
+{"chosen": "Human: How to stay healthy?\nAssistant: Eat balanced meals, exercise, sleep well, stay hydrated.", "rejected": "Human: How to stay healthy?\nAssistant: Just don’t get sick."}

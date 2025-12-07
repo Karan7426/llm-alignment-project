@@ -1,0 +1,56 @@
+########################################
+# Python & Virtual Environment
+########################################
+.venv/
+venv/
+env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+########################################
+# IDE / OS files
+########################################
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+########################################
+# Logs
+########################################
+logs/
+*.log
+
+########################################
+# Model files & checkpoints (CRITICAL)
+########################################
+models/
+checkpoints/
+
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+*.onnx
+
+########################################
+# Optimizer / trainer states
+########################################
+optimizer.pt
+scheduler.pt
+trainer_state.json
+
+########################################
+# HuggingFace / Torch caches
+########################################
+.cache/
+huggingface/
+hf_cache/
+torch_cache/
+
+########################################
+# Experiment trac
